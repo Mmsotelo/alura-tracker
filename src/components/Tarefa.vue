@@ -18,7 +18,7 @@ import Itarefa from '@/interfaces/ITarefa';
 import IBox from './IBox.vue';
 
 export default defineComponent({
-    name: 'TarefaUm',
+    name: 'Tarefa',
     components: {
     CronometroUm,
     IBox
